@@ -1,4 +1,3 @@
 ### My name's Eldar Yusufov, I live in Saint-Petersburg, Russia. 
-Currently i'm a student, interested in backend and frontend development.
-
-Would want to lean more.
+Love coding with Python and Golang, have passion in learning and a strong wish to develop my skills.
+I am actively looking for a job to become a junior backend developer.
